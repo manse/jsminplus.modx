@@ -45,7 +45,7 @@
  * ***** END LICENSE BLOCK ***** */
 
 global $modx, $content;
-$plugin_base = 'assets/plugins/sass/';
+$plugin_base = 'assets/plugins/jsminplus/';
 if (is_file(MODX_BASE_PATH . $plugin_base . 'bootstrap.php')) {
 	require MODX_BASE_PATH . $plugin_base . 'bootstrap.php';
 }

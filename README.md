@@ -19,8 +19,6 @@ JavaScript minifier using JSMinPlus for MODX Revo.
 
 ## License 
 
-Copyright (c) 2012 Ryota Mannari &lt;info@manse.jp&gt;
-
 /* ***** BEGIN LICENSE BLOCK *****
  * Version: MPL 1.1/GPL 2.0/LGPL 2.1
  *
