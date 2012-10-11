@@ -32,7 +32,7 @@ JavaScript minifier using JSMinPlus for MODX Revo.
  * for the specific language governing rights and limitations under the
  * License.
  *
- * The Original Code is JSMinPlus version 1.4.
+ * The Original Code is JSMinPlus.
  *
  * The Initial Developer of the Original Code is
  * Tino Zijdel <crisp@tweakers.net>.
