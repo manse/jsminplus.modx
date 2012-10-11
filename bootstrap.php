@@ -4,6 +4,7 @@ if (is_file(MODX_BASE_PATH . $plugin_base . 'JSMinPlus.php') && $modx->documentO
 
 	require_once MODX_BASE_PATH . $plugin_base . 'JSMinPlus.php';
 	
-	$content = JSMinPlus::minify($content)
+	$content = $modx->documentObject['content'];
+	$content = JSMinPlus::minify($content);
 	$modx->documentObject['content'] = $content;
 }
