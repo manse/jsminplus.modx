@@ -1,12 +1,12 @@
-# JSMinPlus for MODX Revo
+# JSMinPlus for MODX Evo
 
-JavaScript minifier using JSMinPlus for MODX Revo.
+JavaScript minifier using JSMinPlus for MODX Evo.
  * Compiled code is saved as cache.
  * If resource setting "Cacheable" is not checked, this plugin will not work at the resource.
 
 ## Requirements
 
- * MODX Revolution 1.0.5 or greater.
+ * MODX Evolution 1.0.5 or greater.
 
 ## Installation
 

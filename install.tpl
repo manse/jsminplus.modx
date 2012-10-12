@@ -2,7 +2,7 @@
 /**
  * JSMinPlus
  * 
- * JavaScript minifier using JSMinPlus for MODX Revo.
+ * JavaScript minifier using JSMinPlus for MODX Evo.
  * @author	 Ryota Mannari <info@manse.jp>
  * @events OnLoadWebDocument
  * @modx_category Manager and Admin
